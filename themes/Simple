@@ -1,0 +1,107 @@
+!-------------------------------------------------!
+!                     simple                      !
+!-------------------------------------------------!
+!                                                 !
+! pedram amini <pedram@redhive.com>               !
+! http://pedram.redhive.com                       !
+!                                                 !
+! based off of the colors i use(d) on my website. !
+! last modified: 03/05/01                         !
+!                                                 !
+!_________________________________________________!
+
+toolbar:                        flat
+toolbar.color:                  rgb:33/33/33
+
+toolbar.button:                 flat
+toolbar.button.color:           rgb:33/33/33
+toolbar.button.picColor:        white
+
+toolbar.button.pressed:         flat
+toolbar.button.pressed.color:   rgb:66/66/66
+
+toolbar.clock:                  flat
+toolbar.clock.color:            rgb:33/33/33
+toolbar.clock.textColor:        white
+
+toolbar.label:                  flat
+toolbar.label.color:            rgb:33/33/33
+toolbar.label.textColor:        white
+
+toolbar.windowLabel:            flat
+toolbar.windowLabel.color:      rgb:33/33/33
+toolbar.windowLabel.textColor:  white
+
+toolbar.justify:                center
+
+! gradient looks nice here too
+menu.title:                     flat
+menu.title.color:               rgb:33/33/33
+menu.title.colorTo:             rgb:33/33/33
+menu.title.textColor:           white
+menu.title.justify:             center
+
+! gradient looks nice here too
+menu.frame:                     flat
+menu.frame.color:               rgb:66/66/66
+menu.frame.colorTo:             rgb:33/33/33
+menu.frame.textColor:           white
+menu.frame.justify:             left
+
+menu.hilite:                    flat
+menu.hilite.color:              rgb:33/33/33
+menu.hilite.textColor:          white
+
+menu.bullet:                    triangle
+menu.bullet.position:           right
+
+window.title.focus:             flat
+window.title.focus.color:       rgb:33/33/33
+
+window.title.unfocus:           flat
+window.title.unfocus.color:     rgb:66/66/66
+
+window.label.focus:             flat
+window.label.focus.color:       rgb:33/33/33
+window.label.focus.textColor:   white
+
+window.label.unfocus:           flat
+window.label.unfocus.color:     rgb:66/66/66
+window.label.unfocus.textColor: grey
+
+window.button.focus:            flat
+window.button.focus.color:      rgb:33/33/33
+window.button.focus.picColor:   grey
+
+window.button.unfocus:          flat
+window.button.unfocus.color:    rgb:66/66/66
+window.button.unfocus.picColor: grey
+
+window.button.pressed:          flat
+window.button.pressed.color:    rgb:66/66/66
+
+window.frame.focusColor:        rgb:33/33/33
+window.frame.unfocusColor:      rgb:66/66/66
+
+window.handle.focus:            flat
+window.handle.focus.color:      rgb:33/33/33
+
+window.handle.unfocus:          flat
+window.handle.unfocus.color:    rgb:66/66/66
+
+window.grip.focus:              flat
+window.grip.focus.color:        rgb:33/33/33
+
+window.grip.unfocus:            flat
+window.grip.unfocus.color:      rgb:66/66/66
+
+window.justify:                 center
+
+borderColor:                    white
+borderWidth:                    1
+bevelWidth:                     1
+handleWidth:                    5
+
+*Font:				-adobe-helvetica-medium-r-normal--12-*
+
+rootCommand:   xsri --color=black --center-x --center-y --emblem /usr/share/fluxbox/backgrounds/tux_c_logo.jpg 

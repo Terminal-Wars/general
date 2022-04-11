@@ -1,0 +1,123 @@
+! name:	    lawn
+! by:       antipop
+! email:    antip0p@home.com
+
+toolbar.button.color:	#cccccc
+toolbar.button.colorTo:	#505050
+toolbar.button.picColor:	#000000
+toolbar.button:	parentrelative
+
+toolbar.button.pressed.color:	#cccccc
+toolbar.button.pressed.colorTo:	#505050
+toolbar.button.pressed:	Flat Gradient Vertical
+
+toolbar.clock.color:	#003366
+toolbar.clock.colorTo:	#000000
+toolbar.clock.textColor:	#000000
+toolbar.clock:	parentrelative
+
+toolbar.color:	#505050
+toolbar.colorTo:	#cccccc
+toolbar.textColor:	#cccccc
+toolbar.font:	-adobe-helvetica-medium-r-normal--12-*
+toolbar.justify:	Center
+toolbar:	Raised Bevel2 Gradient CrossDiagonal
+
+toolbar.label.color:	#cccccc
+toolbar.label.colorTo:	#505050
+toolbar.label.textColor:	#000000
+toolbar.label:	parentrelative
+
+toolbar.windowLabel.color:	#336633
+toolbar.windowLabel.colorTo:	#003300
+toolbar.windowLabel.textColor:	#000000
+toolbar.windowLabel:	parentrelative
+
+window.button.pressed.color:	#000000
+window.button.pressed.colorTo:	#cccccc
+window.button.pressed:	Sunken Bevel2 Gradient Rectangle
+
+window.button.focus.color:	#cccccc
+window.button.focus.colorTo:	#505050
+window.button.focus.picColor:	#000000
+window.button.focus:	Flat Gradient Vertical
+
+window.button.unfocus.color:	#808080
+window.button.unfocus.colorTo:	#303030
+window.button.unfocus.picColor:	#000000
+window.button.unfocus:	Flat Gradient Vertical
+
+window.frame.focus.color:	#505050
+window.frame.focus.colorTo:	#000000
+window.frame.focus:	Flat Solid Horizontal
+
+window.frame.unfocus.color:	#404040
+window.frame.unfocus.colorTo:	#000000
+window.frame.unfocus:	Flat Solid Horizontal
+
+window.grip.focus.color:	#505050
+window.grip.focus.colorTo:	#909090
+window.grip.focus:	Raised Bevel2 Gradient Vertical
+
+window.grip.unfocus.color:	#303030
+window.grip.unfocus.colorTo:	#606060
+window.grip.unfocus:	Raised Bevel2 Gradient Vertical
+
+window.handle.focus.color:	#cccccc
+window.handle.focus.colorTo:	#505050
+window.handle.focus:	Raised Bevel2 Gradient Vertical
+
+window.handle.unfocus.color:	#808080
+window.handle.unfocus.colorTo:	#404040
+window.handle.unfocus:	Raised Bevel2 Gradient Vertical
+
+window.font:	-adobe-helvetica-medium-r-normal--12-*
+window.justify:	Right
+window.label.focus.color:	#003300
+window.label.focus.colorTo:	#336633
+window.label.focus.textColor:	#cccccc
+window.label.focus:	Raised Bevel2 Gradient CrossDiagonal Interlaced
+
+window.label.unfocus.color:	#002200
+window.label.unfocus.colorTo:	#113311
+window.label.unfocus.textColor:	#cccccc
+window.label.unfocus:	Sunken Bevel2 Gradient CrossDiagonal Interlaced
+
+window.title.focus.color:	#d0d0d0
+window.title.focus.colorTo:	#505050
+window.title.focus:	Raised Bevel2 Gradient Vertical Interlaced
+
+window.title.unfocus.color:	#808080
+window.title.unfocus.colorTo:	#404040
+window.title.unfocus:	Raised Bevel2 Gradient Vertical
+
+menu.frame.color:	#cccccc
+menu.frame.colorTo:	#505050
+menu.frame.textColor:	#000000
+menu.frame.font:	-adobe-helvetica-medium-r-normal--12-*
+menu.frame.justify:	Right
+menu.frame:	Raised Bevel1 Gradient Diagonal
+
+menu.hilite.color:	#003300
+menu.hilite.colorTo:	#336633
+menu.hilite.textColor:	#cccccc
+menu.hilite:	Raised Bevel2 Gradient CrossDiagonal
+
+menu.title.color:	#003300
+menu.title.colorTo:	#447744
+menu.title.textColor:	#cccccc
+menu.title.font:	-adobe-helvetica-medium-r-normal--12-*
+menu.title.justify:	Left
+menu.title:	Raised Bevel2 Gradient CrossDiagonal Interlaced
+
+borderColor:	#000000
+
+bevelWidth:	1
+handleWidth:	5
+borderWidth:	1
+
+menu.bullet:	Triangle
+menu.frame.disableColor:	#000000
+menu.bullet.position:	Right
+
+rootCommand:   xsri --scale-width=100 --scale-height=100 /usr/share/fluxbox/backgrounds/saturn_occultation.jpg
