@@ -1,1 +1,0 @@
-Any programs that are so simple they don't even need their own repo.
